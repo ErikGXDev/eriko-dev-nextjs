@@ -1,9 +1,5 @@
-
-
 const TemplateComponent = () => {
-  return (
-    <></>
-  )
-}
+  return <></>;
+};
 
-export default TemplateComponent
+export default TemplateComponent;
